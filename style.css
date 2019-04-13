@@ -1,0 +1,37 @@
+h1.gaga{
+  color: red;
+  background-color: blue;  
+}
+
+
+h1.gaga :hover{
+    background-color: aqua;
+    color: rebeccapurple;
+}
+
+#name
+{
+    color: blue;
+    background-color: blueviolet;
+}
+
+h1 {
+    color:yellow;
+}
+
+a{
+    color: aqua;
+}
+
+a:hover{
+    color: pink;
+}
+
+a.haha{
+    color:yellow;
+}
+
+a.haha:hover{
+    color: crimson;
+}
+
